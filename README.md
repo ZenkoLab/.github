@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JosselinPerret/zenkolab_landingpage_v2/main/public/logo_without_bg_black.png" alt="ZenkoLab" width="150" />
-
 <br /><br />
 
 # ZenkoLab
